@@ -1,0 +1,4 @@
+﻿  long_sub.cpp
+C:\Users\olive\Documents\_Code\__USACO_code\USACO Silver class\unit 6\long_sub\long_sub\long_sub.cpp(26,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\olive\Documents\_Code\__USACO_code\USACO Silver class\unit 6\long_sub\long_sub\long_sub.cpp(29,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  long_sub.vcxproj -> C:\Users\olive\Documents\_Code\__USACO_code\USACO Silver class\unit 6\long_sub\x64\Debug\long_sub.exe

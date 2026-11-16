@@ -1,0 +1,23 @@
+You are given an array that contains each number between 1...n exactly once. Your task is to collect the numbers from 1 through n in order.
+
+In each round, you go through the array from left to right and collect as many numbers as possible. What is the total number of rounds after all integers have been collected?
+
+Input (from terminal / stdin)
+
+	The first line has an integer n: the array size, 1<=n<=2e5.
+
+	The next line has n integers x1, x2, ..., xn: the numbers in the array.
+
+Output (to terminal / stdout)
+
+	Print one integer: the number of rounds.
+
+
+Sample input:
+5
+4 2 1 5 3
+
+Sample output:
+3
+
+Note: In round 1, integer 1 is collected. In round 2, integers 2 and 3 are collected. Then in round 3, integers 4 and 5 are collected.
