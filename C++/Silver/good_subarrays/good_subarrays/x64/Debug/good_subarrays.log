@@ -1,4 +1,0 @@
-﻿  good_subarrays.cpp
-C:\Users\olive\Documents\_Code\__USACO_code\C++\Silver\good_subarrays\good_subarrays\good_subarrays.cpp(33,21): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
-C:\Users\olive\Documents\_Code\__USACO_code\C++\Silver\good_subarrays\good_subarrays\good_subarrays.cpp(34,29): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
-  good_subarrays.vcxproj -> C:\Users\olive\Documents\_Code\__USACO_code\C++\Silver\good_subarrays\x64\Debug\good_subarrays.exe
