@@ -1,9 +1,37 @@
+# Contest input/output files
 *.in
 *.out
-.vscode/
-.metadata/
-*.exe
-.vs/
-*.zip
 *.myout
+
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+a.out
+
+# Visual Studio
+.vs/
 x64/
+Debug/
+Release/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Eclipse
+.metadata/
+.project
+.cproject
+.settings/
+
+# VS Code
+.vscode/
+
+# Other
+*.zip
+*.pdf
+.DS_Store
+Thumbs.db
